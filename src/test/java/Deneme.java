@@ -3,6 +3,7 @@ public class Deneme {
         System.out.println("Merhaba");
         System.out.println("Dunya");
         System.out.println("B129");
+        //Merhaba Dunya
     }
 }
 //Restore --> Tamamen Working Space' i temizler
